@@ -13,8 +13,9 @@
 
 ## [Project 2: Analyze_AB_Test_Results](https://github.com/ahmedosama181/Analyze_AB_Test_Results)
 > For this project, I will be working to understand the results of an A/B test run by an e-commerce website. The company has developed a new web page in order to try and increase the number of users who "convert," meaning the number of users who decide to pay for the company's product.
+
 >  My goal is to help the company understand if they should implement this new page, keep the old page, or perhaps run the experiment longer to make their decision.
->  Exploratory and Explanatory Analysis and insights using practical statistics
+-  Exploratory and Explanatory Analysis and insights using practical statistics
 
 ## [Project 1: U.S Bike Share Data](https://github.com/ahmedosama181/U.S-Bike-Share-Data)
 > Using Python to undertsan U.S Bike Share Data. Calculating the statistics and building interactive enviroment where a user choses the data and filter for a data set to analyze. 
