@@ -4,7 +4,7 @@
 
 >  The goal is to assess and clean this data set to make it ready for the analysis, Then perform some Uni-variate, Bi-variate and Multi-variate analysis to get some useful and inspiring Insights!
 ![](/Images/FordDataset%201.png)
-![](/Images/FordDataset2.png)
+
 
 # [Project 4: TMDB-Movies-Dataset](https://github.com/ahmedosama181/TMDB-Movies-Dataset)
 > The goal is to wrangle, analyze this Dataset and then communicate my findings about it. ( Using pandas, numpy, matplotlib).
