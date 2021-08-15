@@ -21,7 +21,8 @@
 
 >  My goal is to help the company understand if they should implement this new page, keep the old page, or perhaps run the experiment longer to make their decision.
 -  Exploratory and Explanatory Analysis and insights using practical statistics
-![](https://github.com/ahmedosama181/Ahmed_Portfolio/blob/main/Images/ABtest.png)
+
+> ![](https://github.com/ahmedosama181/Ahmed_Portfolio/blob/main/Images/ABtest.png)
 
 # [Project 1: U.S Bike Share Data](https://github.com/ahmedosama181/U.S-Bike-Share-Data)
 > Using Python to undertsan U.S Bike Share Data. Calculating the statistics and building interactive enviroment where a user choses the data and filter for a data set to analyze. 
