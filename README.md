@@ -7,7 +7,7 @@
 # [Project 4: TMDB-Movies-Dataset](https://github.com/ahmedosama181/TMDB-Movies-Dataset)
 > The goal is to wrangle, analyze this Dataset and then communicate my findings about it. ( Using pandas, numpy, matplotlib).
 - Data Wrangling, Exploratory and Explanatory Data Analysis, Conclusions.
-- 
+
 # [Project 3: WeRateDogs Twitter Account](https://github.com/ahmedosama181/WeRateDogs)
 > wrangle WeRateDogs Twitter Account data to create interesting and trustworthy analyses and visualizations. Gathering Data through Twitter API, Assessing, Cleaning, Analysis, visualizations, documentation
 
